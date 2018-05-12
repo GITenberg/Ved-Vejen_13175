@@ -15,6 +15,8 @@ creator:
     - http://da.wikipedia.org/wiki/Herman_Bang
     - http://en.wikipedia.org/wiki/Herman_Bang
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13175#Ved-Vejen
 gutenberg_issued: '2004-08-13'
 gutenberg_type: Text
 identifiers:
